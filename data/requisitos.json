@@ -1,0 +1,44 @@
+{
+  "checklist_contrato": [
+    {
+      "item": "Consulta plan anual de adquisiciones",
+      "descripcion": "Verificar que la necesidad del contrato esté incluida o haya sido contemplada en el presupuesto anual de la entidad."
+    },
+    {
+      "item": "Identificación y definición de la necesidad",
+      "descripcion": "Determinar y precisar el objeto del contrato, incluyendo derechos, obligaciones, duración y territorio de aplicación."
+    },
+    {
+      "item": "Determinación del comité asesor y evaluador",
+      "descripcion": "Confirmar la designación de los roles financiero, jurídico, técnico y logístico para el proceso."
+    },
+    {
+      "item": "Estudios previos",
+      "descripcion": "Contar con documentos que justifiquen la contratación y contengan análisis de sector, estudios de viabilidad, requisitos habilitantes, criterios de evaluación y modalidad de selección."
+    },
+    {
+      "item": "Solicitud de Presupuesto y Certificado de Disponibilidad Presupuestal (CDP)",
+      "descripcion": "Garantizar la existencia de recursos económicos apropiados para la ejecución del contrato."
+    },
+    {
+      "item": "Permisos, licencias y autorizaciones",
+      "descripcion": "Obtener todos los permisos necesarios para la ejecución del contrato."
+    },
+    {
+      "item": "Elaboración del proyecto de pliego de condiciones",
+      "descripcion": "Preparar y publicar un pliego de condiciones definitivo que establezca las reglas para el proceso de selección y contratación."
+    },
+    {
+      "item": "Proceso de selección",
+      "descripcion": "Realizar la convocatoria, recibir consultas, evaluar ofertas y adjudicar el contrato al oferente que cumpla los requisitos establecidos."
+    },
+    {
+      "item": "Formalización y perfeccionamiento del contrato",
+      "descripcion": "Formalizar y suscribir el contrato entre la entidad estatal y el contratista seleccionado, asegurando la inclusión de pólizas y garantías según lo definido en los estudios previos."
+    },
+    {
+      "item": "Registro Presupuestal (RP)",
+      "descripcion": "Comprometer efectivamente los recursos para la ejecución del contrato."
+    }
+  ]
+}
